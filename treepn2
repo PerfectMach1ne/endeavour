@@ -1,0 +1,4 @@
+#!/bin/bash
+
+tree -F -I 'Cars' --gitignore
+echo "NOTE: treepn2 ignores ReplicatedStorage/Cars!!!"
